@@ -1,7 +1,3 @@
-# **Team Name**: Checkmate
-
-**Team Members**:
-- Happy Lakhotia, Yash Agarwal , Ujjwal Rai , Krishna Kant Kumar , Ankit Chaurasiya
 
 #              Ayurvision
 
